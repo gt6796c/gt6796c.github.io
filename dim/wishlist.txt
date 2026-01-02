@@ -139,6 +139,20 @@ dimwishlist:item=3685829362&perks=1482024992,1885400500,2846385770,555281244
 dimwishlist:item=3685829362&perks=1482024992,1885400500,2846385770,1015611457
 
 
+// All or Nothing - Blueberries (pve)
+//notes: Pick this roll up with Fluted Barrel to boost the quite low base Handling, and then combine with Light Heatsink in the Battery for a further +10 to Handling and Reload Speed. The main perks here work incredibly well together in Firefly and Thermal Atomization. Precision kills with Firefly cause a damaging explosion to the surrounding enemies and help Reload Speed reach its maximum. Thermal Atomization then finishes off, adding a damage boost after hitting a high heat, which helps with tankier enemies, as they require more shots. Heating the weapon then ends in a high-damage explosion when the foe is defeated.  tags:pve
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,1909124648
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,960997401
+
+
+// All or Nothing - Blueberries (pvp)
+//notes: Start with Arrowhead Brake to tighten up the wide Recoil pattern and then add Tactical Heatsink to the Battery for its sweeping boosts to essential stats in Range, Stability, and Reload Speed. Tie this together first with Keep Away. The key elements are the increases to Range and Accuracy, which will easily take opponents by surprise at how effective this weapon will be at range, paired with accurate and frequent burst fire. Finish off with Headseeker, which pairs perfectly with a Pulse Rifle; its burst fire nature helps enhance any part of the burst that lands south of a precision shot, making follow-up shots more effective in battle.\nmw:range or handling tags:pvp
+dimwishlist:item=3984776322&perks=839105230,769709866,3619207468,460017080
+dimwishlist:item=3984776322&perks=839105230,769709866,3619207468,1015611457
+dimwishlist:item=3984776322&perks=839105230,769709866,2387244414,460017080
+dimwishlist:item=3984776322&perks=839105230,769709866,2387244414,1015611457
+
+
 // Gizmo Weft - Blueberries (god-pve)
 //notes: PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.\n\nFirstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing. Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.\n\nElemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, it’s easy to achieve and will pump out solid damage numbers during its 20-second duration. tags:god-pve
 dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,3078487919,934928524
