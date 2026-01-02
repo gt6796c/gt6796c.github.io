@@ -1,5 +1,19 @@
 title:SticksJabroni
 
+// Mistral Lift - Blueberries (pve)
+//notes: On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.
+
+For perks, we suggest Envious Arsenal in the first column as it is an excellent reload perk, however, Reconstruction is an okay backup. Bait and Switch is the go-to for perk 2 as it is the best damage perk available on Mistral Lift, but Precision Instrument is a reasonable backup option. tags:pve
+dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,3078487919,3988215619
+dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,555281244,3988215619
+dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,3078487919,3988215619
+dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,555281244,3988215619
+dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,3078487919,3988215619
+dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,555281244,3988215619
+dimwishlist:item=766122634&perks=1840239774,1687452232,1523832109,3078487919,3988215619
+dimwishlist:item=766122634&perks=1840239774,1687452232,1523832109,555281244,3988215619
+
+
 // M-17 "Fast Talker" - frost (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=1419158093&perks=1482024992,1092016998,307683764,1909124648
@@ -40,7 +54,6 @@ dimwishlist:item=2819552809&perks=1482024992,3868766766,307683764,2109543898
 dimwishlist:item=2819552809&perks=1482024992,3868766766,307683764,1015611457
 
 
-
 // Uncivil Discourse - Blueberries (god-pve)
 //notes: Uncivil Discourse is an excellent entry into this new weapon type. Hits hard with a generous magazine size, this weapon will do the work in all levels of content.\n\nWe will start by saying that for Hunters, the combination of Lucky Pants, Precision Instrument, and the Holofoil origin trait, Accelerated Assault, produces incredible damage numbers. Currently one of the most chased rolls out there, and while it will still do serious damage to other classes, this is one of the more exciting DPS options currently in-game.\n\nStart with Fluted Barrel and Ionized Heatsink, which pushes Handling to near max for a light and snappy feel when switching to this weapon, and the Battery will reduce heat generated, allowing more shots to be fired before an overheat.\n\nFor the main perks, Air Trigger fits nicely in the first slot, mainly for its added boost to Reload Speed. Just remember to do a little jump to ensures you get the best out of it. Finish off with Precision Instrument, which rewards an accurate hand by adding a damage bonus for each shot on target. Be careful, as missing will reset the buff. Maxes out at 25% and keeps rolling until a shot is missed or you need to reload, so this buff can last a sizeable amount of time and take massive chunks off your enemies. tags:god-pve
 dimwishlist:item=3146657389&perks=1840239774,807993149,3932949589,4104185692
@@ -54,32 +67,11 @@ dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,555281244
 dimwishlist:item=3146657389&perks=839105230,2969185026,3619207468,555281244
 dimwishlist:item=3146657389&perks=839105230,2969185026,3619207468,47981717
 
-// Gizmo Weft - Blueberries (god-pve)
-//notes: PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.\n\nFirstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing. Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.\n\nElemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, it’s easy to achieve and will pump out solid damage numbers during its 20-second duration. tags:god-pve
-dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,3078487919,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,1089671869,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,3764420437,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3078487919,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,1089671869,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3764420437,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,3078487919,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,1089671869,934928524
-dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,3764420437,934928524
-
-// Mistral Lift - Blueberries (pve)
-//notes: On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.\nFor perks, we suggest Envious Arsenal in the first column as it is an excellent reload perk, however, Reconstruction is an okay backup. Bait and Switch is the go-to for perk 2 as it is the best damage perk available on Mistral Lift, but Precision Instrument is a reasonable backup option. tags:pve
-dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,555281244,3988215619
-dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,555281244,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,3987942396,555281244,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,1523832109,3078487919,3988215619
-dimwishlist:item=766122634&perks=1840239774,1687452232,1523832109,555281244,3988215619
-
 
 // Psi Aeterna IV - Blueberries (pve)
-//notes: Given Psi Aeterna IV is a special ammo weapon, we want to maximise the Handling, so Quick Launch and a Handling masterwork are ideal. Appended Mag is our magazine of choice because it offers some auto-reloading features and is the best magazine without any negative trade-offs.\nFor perks, we recommend Trickle Charge as it allows you to continuously fire the weapon in DPS scenarios where this weapon will likely truly shine. However, if you want something more general, Blast Disruptor is a very suitable alternative. For perk 2, again, focusing on DPS, Elemental Honing is by far the best option. This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative. tags:pve
+//notes: Given Psi Aeterna IV is a special ammo weapon, we want to maximise the Handling, so Quick Launch and a Handling masterwork are ideal. Appended Mag is our magazine of choice because it offers some auto-reloading features and is the best magazine without any negative trade-offs.
+
+For perks, we recommend Trickle Charge as it allows you to continuously fire the weapon in DPS scenarios where this weapon will likely truly shine. However, if you want something more general, Blast Disruptor is a very suitable alternative. For perk 2, again, focusing on DPS, Elemental Honing is by far the best option. This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative. tags:pve
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,1089671869,3846229553
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,3966416502,3846229553
 dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,1089671869,3846229553
@@ -102,4 +94,18 @@ dimwishlist:item=3685829362&perks=1482024992,1885400500,2579169598,555281244
 dimwishlist:item=3685829362&perks=1482024992,1885400500,2579169598,1015611457
 dimwishlist:item=3685829362&perks=1482024992,1885400500,2846385770,555281244
 dimwishlist:item=3685829362&perks=1482024992,1885400500,2846385770,1015611457
+
+
+// Gizmo Weft - Blueberries (god-pve)
+//notes: PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.\n\nFirstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing. Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.\n\nElemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, it’s easy to achieve and will pump out solid damage numbers during its 20-second duration. tags:god-pve
+dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,3078487919,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,1089671869,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,3764420437,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3078487919,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,1089671869,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3764420437,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,3078487919,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,1089671869,934928524
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3161816588,3764420437,934928524
+
 
