@@ -1,5 +1,21 @@
 title:SticksJabroni
 
+// Duty Bound - Blueberries (pvp)
+//notes: Look for Arrowhead Brake first; it helps keep recoil in check and helps keep shots on target in a gunfight. Add on Accurized Rounds for its boost to Range, this makes Duty Bound lock down longer sight lines with ease.\n\nThe main perks start with a new one, Stopping Power. This increases damage against opponents with lower health and increases Aim Assistance. This creates a loop where the more damage you cause, the more damage the weapon will do. Round off nicely with Rampage. At its peak, Rampage gains a 33% damage increase. Paired together, will help melt any opponent who dares cross Duty Bound’s sights. This will still have a great effect in its first or second stack of damage.\nmw:Range tags:pvp
+dimwishlist:item=260532765&perks=839105230,3142289711,1517798362,3425386926,3846229553
+dimwishlist:item=260532765&perks=839105230,3142289711,1517798362,1359896290,3846229553
+dimwishlist:item=260532765&perks=839105230,3142289711,2579169598,3425386926,3846229553
+dimwishlist:item=260532765&perks=839105230,3142289711,2579169598,1359896290,3846229553
+
+
+// Duty Bound - Blueberries (pve)
+//notes: Pick this up with Fluted Barrel for the big increase to Handling and combine with Flared Magwell in the Magazine slot for another big increase, but this time for Reload Speed to help get back into the fight quickly after emptying the magazine.\n\nThe main perks look to take advantage of a perk combination not seen very regularly on an Auto Rifle, and that is Fourth Time’s the Charm and Triple Tap. Landing precision hits will automatically refill the Magazine. While this may seem like an off-hand gimmick, Duty Bound carries 41 rounds in its base Magazine. This gives scope to regain 3 bullets for every 4 precision shots landed in quick succession, with these perks working in tandem. Onslaught is an excellent second here for ramping up this weapon to bullet hose levels.\nmw:Handling tags:pve
+dimwishlist:item=260532765&perks=1840239774,3230963543,1354429876,3400784728
+dimwishlist:item=260532765&perks=1840239774,3230963543,1354429876,95528736
+dimwishlist:item=260532765&perks=1840239774,3230963543,2289534249,3400784728
+dimwishlist:item=260532765&perks=1840239774,3230963543,2289534249,95528736
+
+
 // Mistral Lift - Blueberries (pve)
 //notes: On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.
 
@@ -52,6 +68,33 @@ dimwishlist:item=2819552809&perks=1482024992,3868766766,2846385770,2109543898
 dimwishlist:item=2819552809&perks=1482024992,3868766766,2846385770,1015611457
 dimwishlist:item=2819552809&perks=1482024992,3868766766,307683764,2109543898
 dimwishlist:item=2819552809&perks=1482024992,3868766766,307683764,1015611457
+
+
+// High Tyrant - Blueberries (pve)
+//notes: High Tyrant comes out of the box with good stats in the right places, but it needs a leg up on its Handling. This god roll gets the most out of its perk synergy and enhances the weapon in all the right places.\n\nStart with Fluted Barrel and Light Heatsink, with the idea that the immediate +25 will help take the weight off the weapon and give it the light and snappy feel a fast-firing Pulse Rifle needs to feel most satisfying in a gun fight.\n\nThe main perks combine excellently to apply Weaken and Volatile to opponents, and that comes in the form of Destabilizing Rounds and Demoralize. Destabilzing Rounds causes an explosion on kill, which makes nearby enemies Volatile, while Demorazile rewards precision kills with Weaken. This increases damage from all sources by 15%, which is an excellent debuff to have in the pocket for a simple way to apply.\n\nmw:Cooling Efficiency tags:pve
+dimwishlist:item=2873508409&perks=1840239774,1946186791,2048641572,1464081238
+dimwishlist:item=2873508409&perks=1840239774,1946186791,2048641572,657025441
+dimwishlist:item=2873508409&perks=1840239774,1946186791,2048641572,4104185692
+dimwishlist:item=2873508409&perks=1840239774,1946186791,307683764,1464081238
+dimwishlist:item=2873508409&perks=1840239774,1946186791,307683764,657025441
+dimwishlist:item=2873508409&perks=1840239774,1946186791,307683764,4104185692
+dimwishlist:item=2873508409&perks=1840239774,1946186791,776531651,1464081238
+dimwishlist:item=2873508409&perks=1840239774,1946186791,776531651,657025441
+dimwishlist:item=2873508409&perks=1840239774,1946186791,776531651,4104185692
+
+
+// High Tyrant - Blueberries (pvp)
+//notes: Arrowhead Brake is needed here to bring the Recoil under control, which makes repeat bursts easy to keep on target during a gunfight. Projection Fuse then comes in for added Range, helping High Tyrant lockdown longer sight-lines with its fast-firing rounds.\n\nRapid Hit and Headseeker is an old but reliable combination when it comes to The Crucible and works to great effect on this archetype. Rapid Hit adds Stability and Reload Speed while Headseeker increases damage and Aim Assist for any shot south of a headshot, making for a deadly combination which only increases High Tyrant’s potency in the thick of battle. Master of Arms is an alternative for Headseeker, as the damage can be increased from other weapons or abilities, which can easily take opponents off guard.\nmw:Range tags:pvp
+dimwishlist:item=2873508409&perks=839105230,2969185026,247725512,460017080,1164078247
+dimwishlist:item=2873508409&perks=839105230,2969185026,247725512,3081867624,1164078247
+
+
+// Permafrost - Blueberries (pve)
+//notes: On Permafrost, it’s best to prioritise stats that improve the feel of the weapon, so Quick Launch, High-Velocity Rounds, and a Handling or Reload Speed masterwork are ideal.\n\nFor perks, Rimestealer is the standout in the first column, particularly when paired with Crystalline Corpsebloom. However, if you don’t want to go down the Stasis route, you can go for Demolitionist with Reaper’s Tithe. Reaper’s Tithe synergises excellently with this weapon frame, and Demolitionist is always nice. tags:pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962,2120661319
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,113508675,2120661319
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,2922950962,2120661319
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675,2120661319
 
 
 // Uncivil Discourse - Blueberries (god-pve)
